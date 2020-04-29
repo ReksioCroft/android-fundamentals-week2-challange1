@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Fundamentals Week 2 Challange 1</string>
+    <string name="orangeText">This is an orange TextView</string>
+    <string name="greenText">This is a green TextView</string>
+    <string name="blueText">This is a blue TextView</string>
+    <string name="button">This is a button</string>
+    <string name="greenButton">This is a green button</string>
+    <string name="editText">This is an Edit Text</string>
+    <string name="newEditText">This is a new edit text</string>
+    <string name="notify_me">Notify me:)</string>
+    <string name="auto_backup">Auto Backup</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
